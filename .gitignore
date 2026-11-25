@@ -1,0 +1,6 @@
+.build/
+dist/
+models/*.bin
+vendor/
+.DS_Store
+graphify-out/

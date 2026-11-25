@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>Local Wispr</string>
+    <key>CFBundleDisplayName</key><string>Local Wispr</string>
+    <key>CFBundleIdentifier</key><string>local.wispr.desktop</string>
+    <key>CFBundleExecutable</key><string>LocalWispr</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.2.2</string>
+    <key>CFBundleVersion</key><string>6</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSMicrophoneUsageDescription</key><string>Local Wispr records your voice while you hold Fn or click the microphone. Audio is processed on this Mac.</string>
+    <key>NSInputMonitoringUsageDescription</key><string>Local Wispr listens for the Fn key so you can dictate while using other apps.</string>
+    <key>NSHumanReadableCopyright</key><string>Local Wispr. Speech recognition powered by whisper.cpp and OpenAI Whisper. Independent project, not affiliated with Wispr Flow.</string>
+    <key>NSAppTransportSecurity</key><dict><key>NSAllowsLocalNetworking</key><true/></dict>
+</dict></plist>
